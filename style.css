@@ -10,3 +10,14 @@ img {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+.myclass {
+  background: rgb(245, 13, 13);
+  background: linear-gradient(90deg, rgba(245, 13, 13, 1) 15%, rgba(233, 245, 4, 1) 50%, rgba(5, 225, 245, 1) 86%);
+  color: blue;
+}
+
+.btn-light {
+  color: rgb(3, 4, 78);
+  background-color: rgb(250, 249, 244);
+}
