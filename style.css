@@ -1,0 +1,12 @@
+body {
+  min-height: 100%;
+}
+
+/* same as using img-thumbnail */
+img {
+  /* display: block;
+  max-width: 100%;
+  height: auto; */
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
